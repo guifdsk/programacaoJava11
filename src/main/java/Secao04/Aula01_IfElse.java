@@ -2,7 +2,7 @@ package Secao04;
 
 import java.util.Scanner;
 
-public class aula01IfElse {
+public class Aula01_IfElse {
     public static void main(String[] args){
         Scanner read = new Scanner(System.in);
 
