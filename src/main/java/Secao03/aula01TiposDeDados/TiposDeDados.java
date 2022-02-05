@@ -1,4 +1,4 @@
-package Secao03.aula01;
+package Secao03.aula01TiposDeDados;
 
 public class TiposDeDados {
     public static void main(String[] args){

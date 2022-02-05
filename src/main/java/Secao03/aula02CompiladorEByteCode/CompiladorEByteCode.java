@@ -1,4 +1,4 @@
-package Secao03.aula02;
+package Secao03.aula02CompiladorEByteCode;
 
 public class CompiladorEByteCode {
     public static void main (String[] args){
